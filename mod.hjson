@@ -1,0 +1,7 @@
+name: "willo-lang"
+displayName: "Willo`s Language but funny"
+author: "WilloIzCitron"
+description: "NaT"
+version: "1.0"
+minGameVersion: "120"
+hidden: true
